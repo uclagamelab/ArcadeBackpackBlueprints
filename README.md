@@ -1,4 +1,4 @@
-arcadebackpackblueprints
+ArcadeBackpackBlueprints
 ========================
 
 Arcade Backpack Blueprints
